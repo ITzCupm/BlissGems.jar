@@ -4702,7 +4702,6 @@ public final class BlissGems extends JavaPlugin implements Listener {
         }
     }
 
-    // test
 
     @EventHandler
     public void CozyCampfire(PlayerInteractEvent event) {
@@ -5007,6 +5006,7 @@ public final class BlissGems extends JavaPlugin implements Listener {
                     String AstralProjectionPlayerName = AstralProjectionPlayer.getName();
                     NPC npc = CitizensAPI.getNPCRegistry().createNPC(EntityType.PLAYER, AstralProjectionPlayerName);
                     Location AstralProjectionPlayerLocation = AstralProjectionPlayer.getLocation();
+                    AstralProjectionPlayer.sendMessage("fuck");
                     BissParticlesExtra(AstralProjectionPlayer);
                     npc.spawn(AstralProjectionPlayerLocation);
                     npc.getNavigator().cancelNavigation();
