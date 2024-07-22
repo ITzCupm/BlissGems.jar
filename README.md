@@ -1,4 +1,2 @@
 # BlissGems.jar
-Banned People ItsMrBushidoYT,ITsVelocity
-This is the BlissSmp Plugin in java code Chapter 3 
-THere are bugs still as this is Version 1 
+# new repo https://github.com/SMP-Remakers/BlissGemsRemake
