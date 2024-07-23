@@ -1,2 +1,2 @@
 # BlissGems.jar
-# new repo https://github.com/SMP-Remakers/BlissGemsRemake
+# Join discord server https://discord.gg/58PEGqHA
